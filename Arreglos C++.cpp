@@ -1,3 +1,5 @@
+/*Erick Gamboa
+Hacer un programa de arreglos en Visual Studio Code usando C++*/
 #include <iostream>
 using namespace std;
 const int num = 8;
